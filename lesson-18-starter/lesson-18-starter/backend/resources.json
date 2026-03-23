@@ -1,0 +1,92 @@
+{
+  "resources": [
+    {
+      "id": "tutoring",
+      "title": "Peer Tutoring Centre1",
+      "category": "Academic",
+      "summary": "Drop-in tutoring and study support.",
+      "location": "Building W, Room W101",
+      "hours": "Mon-Thu 10:00-16:00",
+      "contact": "tutoring@nait.ca",
+      "virtual": false,
+      "openNow": true
+    },
+    {
+      "id": "counselling",
+      "title": "Counselling Services",
+      "category": "Wellness",
+      "summary": "Confidential mental health supports.",
+      "location": "Virtual and in-person",
+      "hours": "Mon-Fri 09:00-17:00",
+      "contact": "wellness@nait.ca",
+      "virtual": true,
+      "openNow": true
+    },
+    {
+      "id": "bursaries",
+      "title": "Student Awards and Bursaries",
+      "category": "Financial",
+      "summary": "Funding options and application help.",
+      "location": "Student Services, Main Floor CAT",
+      "hours": "Mon-Fri 10:00-15:00",
+      "contact": "awards@nait.ca",
+      "virtual": true,
+      "openNow": false
+    },
+    {
+      "id": "it",
+      "title": "IT Service Desk",
+      "category": "Tech",
+      "summary": "Account access, Wi-Fi, MFA resets.",
+      "location": "Library",
+      "hours": "Mon-Fri 08:30-16:30",
+      "contact": "it@nait.ca",
+      "virtual": false,
+      "openNow": true
+    },
+    {
+      "id": "res_1774283141435_l8og3b",
+      "title": "Study Group",
+      "category": "Wellness",
+      "summary": "Some summary of the resource.",
+      "location": "NAIT Campus",
+      "hours": "Mon-Fri 08:00-13:00",
+      "contact": "study@nait.ca",
+      "virtual": false,
+      "openNow": false
+    },
+    {
+      "id": "res_1774283253674_5x4guv",
+      "title": "",
+      "category": "",
+      "summary": "",
+      "location": "",
+      "hours": "",
+      "contact": "",
+      "virtual": false,
+      "openNow": false
+    },
+    {
+      "id": "res_1774283900539_ykigso",
+      "title": "tution services",
+      "category": "Wellness",
+      "summary": "Some summary of the resource.",
+      "location": "NAIT Campus",
+      "hours": "Mon-Fri 08:00-13:00",
+      "contact": "study@nait.ca",
+      "virtual": false,
+      "openNow": false
+    },
+    {
+      "id": "res_1774287220306_q5211r",
+      "title": "hi",
+      "category": "",
+      "summary": "",
+      "location": "",
+      "hours": "",
+      "contact": "",
+      "virtual": false,
+      "openNow": false
+    }
+  ]
+}
